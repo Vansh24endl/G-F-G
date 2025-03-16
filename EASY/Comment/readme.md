@@ -15,8 +15,8 @@ Comment out the line that prints the value of b.
 ## Examples:
 ```
 ### Example 1:
-**Input:** a = 5, b = 6, c = 15
-**Output:**
+ Input:  a = 5, b = 6, c = 15
+ Output:
 
 5
 15
@@ -24,8 +24,8 @@ Comment out the line that prints the value of b.
 
 ### Example 2:
 ```
-**Input:** a = 5, b = 8, c = 15
-**Output:**
+ Input:  a = 5, b = 8, c = 15
+ Output:
 
 5
 15
